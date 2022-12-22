@@ -1,9 +1,9 @@
-import SignUpPage from "./pages/SignUpPage";
+import SignUpPage from './pages/SignUpPage'
 
 function App() {
   return (
     <SignUpPage />
-  );
+  )
 }
 
-export default App;
+export default App

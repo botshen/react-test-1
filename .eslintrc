@@ -1,0 +1,6 @@
+{
+    "extends": "@antfu",
+    "env": {
+        "jest": true
+    }
+}
